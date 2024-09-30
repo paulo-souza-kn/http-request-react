@@ -6,29 +6,9 @@
       "price": 59.9
     },
     {
-      "id": "2",
-      "name": "Calça vermelha",
-      "price": 90
-    },
-    {
-      "id": "3",
-      "name": "Boné aba reta",
-      "price": 29.9
-    },
-    {
-      "id": "0a99",
-      "name": "Caneta",
-      "price": "10.10"
-    },
-    {
-      "id": "130e",
-      "name": "Boné",
-      "price": "50.50"
-    },
-    {
-      "id": "d832",
-      "name": "Chapeu",
-      "price": "70"
+      "id": "836b",
+      "name": "teste",
+      "price": "2"
     }
   ]
 }
